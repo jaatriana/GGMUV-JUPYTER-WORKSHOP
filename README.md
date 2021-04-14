@@ -1,10 +1,10 @@
 # REFERENCES FOR THE GGMUV JUPYTER NOTEBOOK WORKSHOP 2021
 _________________
-#nbextensions > ANACONDA
-
-conda install -c conda-forge jupyter_contrib_nbextensions 
-conda install -c conda-forge jupyter_nbextensions_configurator
-jupyter contrib nbextension install --user
+# nbextensions
++ Anaconda
+        conda install -c conda-forge jupyter_contrib_nbextensions 
+        conda install -c conda-forge jupyter_nbextensions_configurator
+        jupyter contrib nbextension install --user
 
 - scratchpad > sandbox
 - snippets menu > numpy scipi sympy matplotlib pandas
