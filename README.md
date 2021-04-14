@@ -10,7 +10,10 @@ Anaconda
   jupyter contrib nbextension install --user
 ```
 - Scratchpad > sandbox
-- Snippets menu > numpy scipi sympy matplotlib pandas
+- Snippets menu
+  + numpy > numeric computing lib
+  + matplotlib > 2D/3D plotting
+  + sympy > symbolic math functions
 - Hinterland > autocomplete
 - RISE > slides
 - TOC > table of contents
