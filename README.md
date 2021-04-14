@@ -1,4 +1,5 @@
-# REFERENCES FOR THE GGMUV JUPYTER NOTEBOOK WORKSHOP 2021 :tent:
+# RGGMUV JUPYTER NOTEBOOK WORKSHOP 2021 :tent:
+## SETUP
 _________________
 # nbextensions
 Anaconda
@@ -17,10 +18,8 @@ Anaconda
 - TOC > table of contents
 - collapsable heads > *
 
-#GITHUB REPOS
-
-## MATHEMATICAL PYTHON
+# REFERENCES
+- MATHEMATICAL PYTHON
 https://www.math.ubc.ca/~pwalls/math-python/
-
-## PROBLEM SOLVING WITH PYTHON
+- PROBLEM SOLVING WITH PYTHON
 https://problemsolvingwithpython.com/
