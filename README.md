@@ -21,4 +21,3 @@ Anaconda
 https://www.math.ubc.ca/~pwalls/math-python/
 - PROBLEM SOLVING WITH PYTHON
 https://problemsolvingwithpython.com/
--https://www.makeareadme.com/
