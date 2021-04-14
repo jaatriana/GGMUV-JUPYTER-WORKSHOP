@@ -1,7 +1,7 @@
 # RGGMUV JUPYTER NOTEBOOK WORKSHOP 2021 :tent:
 ## SETUP
-_________________
-# nbextensions
+
+# 1 nbextensions
 Anaconda
 
 ```bash
@@ -9,17 +9,16 @@ Anaconda
   conda install -c conda-forge jupyter_nbextensions_configurator
   jupyter contrib nbextension install --user
 ```
-
-
-
-- scratchpad > sandbox
-- snippets menu > numpy scipi sympy matplotlib pandas
+- Scratchpad > sandbox
+- Snippets menu > numpy scipi sympy matplotlib pandas
+- Hinterland > autocomplete
 - RISE > slides
 - TOC > table of contents
-- collapsable heads > *
+- Collapsable heads > *
 
 # REFERENCES
 - MATHEMATICAL PYTHON
 https://www.math.ubc.ca/~pwalls/math-python/
 - PROBLEM SOLVING WITH PYTHON
 https://problemsolvingwithpython.com/
+-https://www.makeareadme.com/
