@@ -1,7 +1,8 @@
-# REFERENCES FOR THE GGMUV JUPYTER NOTEBOOK WORKSHOP 2021
+# REFERENCES FOR THE GGMUV JUPYTER NOTEBOOK WORKSHOP 2021 :tent:
 _________________
 # nbextensions
-+ Anaconda
+Anaconda
+
   conda install -c conda-forge jupyter_contrib_nbextensions 
   conda install -c conda-forge jupyter_nbextensions_configurator
   jupyter contrib nbextension install --user
